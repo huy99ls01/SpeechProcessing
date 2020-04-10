@@ -1,0 +1,15 @@
+Bộ Giáo dục Singapore đã dừng tất cả chương trình học qua phần mềm Zoom, sau khi một người đàn ông khoả thân lọt vào một lớp học online. 
+
+Theo Reuters, trong giờ giảng bài online của một giáo viên Địa lý trên phần mềm Zoom tuần rồi, một người đàn ông lạ trong tình trạng khoả thân đã "đột nhập" vào lớp. Ông này liên tục buông những lời lẽ tục tĩu và phân biệt chủng tộc.
+
+"Đây là sự cố nghiêm trọng", ông Aaron Loh, người phụ trách bộ phận Công nghệ và Giáo dục thuộc Bộ Giáo dục Singapore, cho biết. "Chúng tôi đang gửi thông tin cho cảnh sát. Đồng thời, Bộ sẽ dừng việc sử dụng phần mềm Zoom cho đến khi vấn đề bảo mật của ứng dụng được giải quyết", ông nói.
+
+Cũng theo ông Loh, Bộ sẽ tư vấn thêm cho giáo viên về phương pháp bảo mật trực tuyến, như đăng nhập an toàn, không chia sẻ liên kết về cuộc họp ảo ra ngoài. Tuy nhiên, ông không nhắc đến các giải pháp thay thế Zoom.
+
+Chính quyền Hong Kong cũng đang cân nhắc cấm Zoom, sau nhiều thông tin rằng ứng dụng này có nhiều nguy cơ bảo mật, rò rỉ dữ liệu và vi phạm quyền riêng tư. Gần đây nhất, trường nữ sinh St Stephen's Girls 'College và Christian Alliance International School đã thông báo gặp sự cố "zoombombing" - tình trạng bị quấy rối trên Zoom. Học sinh từ hơn 40 trường học ở Hong Kong đã kêu gọi các cơ quan chức năng không tiếp tục sử dụng phần mềm này.
+
+Trước đó, Đài Loan, Đức và một số bang của Mỹ đã ra lệnh cấm Zoom do vấn đề bảo mật. Các cơ quan, công ty lớn như Cơ quan Hàng không và Vũ trụ Mỹ (NASA), SpaceX, Google. cũng yêu cầu nhân viên không sử dụng ứng dụng này vì có thể làm lộ các thông tin cuộc họp quan trọng.
+
+Chương trình họp trực tuyến Zoom nhận được sự quan tâm lớn từ đầu 2020 khi Covid-19 bùng phát. Tuy nhiên, phần mềm này đang bị chỉ trích, thậm chí bị kiện vì hàng loạt vấn đề về quyền riêng tư, như gửi dữ liệu người dùng cho Facebook, quảng cáo sai về tính năng mã hóa đầu cuối, làm lộ thông tin đăng nhập Windows hay cho phép chủ phòng họp ảo theo dõi người tham dự.
+
+Zoom cũng thừa nhận và xin lỗi vì đã không đánh giá đầy đủ tính bảo mật và quyền riêng tư cho ứng dụng họp trực tuyến của mình, đồng thời hứa khắc phục để lấy lại niềm tin từ người dùng. Hiện công ty thông báo ngừng phát triển các tính năng mới trong 90 ngày để xử lý các lỗ hổng và sự cố đã được báo cáo.
